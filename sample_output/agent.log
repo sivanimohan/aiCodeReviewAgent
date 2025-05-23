@@ -1,0 +1,36 @@
+2025-05-23T22:23:43.837399 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T22:23:43.838398 | Preparing input
+2025-05-23T22:23:43.848176 | Analyzing codebase
+2025-05-23T22:23:44.004752 | Improving codebase
+2025-05-23T22:23:47.442585 | Generating report
+2025-05-23T22:23:47.475587 | Cleaning up temp resources
+2025-05-23T22:25:08.782879 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T22:25:08.783878 | Preparing input
+2025-05-23T22:25:08.789877 | Analyzing codebase
+2025-05-23T22:25:08.947888 | Improving codebase
+2025-05-23T22:25:12.312565 | Generating report
+2025-05-23T22:25:12.345306 | Cleaning up temp resources
+2025-05-23T23:32:03.258716 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:32:03.258716 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:32:03.258716 | Cleaning up temp resources
+2025-05-23T23:32:10.008934 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:32:10.008934 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:32:10.008934 | Cleaning up temp resources
+2025-05-23T23:33:47.612297 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:33:47.612297 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:33:47.612297 | Cleaning up temp resources
+2025-05-23T23:43:55.124343 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:43:55.124343 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:43:55.124343 | Cleaning up temp resources
+2025-05-23T23:47:52.103972 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:47:52.103972 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:47:52.103972 | Cleaning up temp resources
+2025-05-23T23:54:28.413414 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-23T23:54:28.422308 | Error during code review: 'AICodeReviewAgent' object has no attribute 'prepare_input'
+2025-05-23T23:54:28.423842 | Cleaning up temp resources
+2025-05-24T00:10:32.178221 | Starting AI Code Review for: C:\Users\Sivani\Desktop\Comp Project
+2025-05-24T00:10:32.178221 | Preparing input
+2025-05-24T00:10:32.186213 | Analyzing codebase
+2025-05-24T00:10:37.614773 | Improving codebase
+2025-05-24T00:10:44.036432 | Generating report
+2025-05-24T00:10:44.092446 | Cleaning up temp resources
