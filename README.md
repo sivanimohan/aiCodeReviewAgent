@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **AI Code Review Agent** is a multi-language tool that reviews entire codebases for syntax, style, security, and performance issues, automatically generates improved versions of source code, and produces detailed reports. It supports Python, JavaScript, Java, and Go projects, and can be integrated into local development workflows or CI/CD pipelines.
+The **AI Code Review Agent** (`aiagent.py`) is a multi-language tool that reviews entire codebases for syntax, style, security, and performance issues, automatically generates improved versions of source code, and produces detailed reports. It supports Python, JavaScript, Java, and Go projects, and can be integrated into local development workflows or CI/CD pipelines.
 
 ---
 
@@ -56,25 +56,25 @@ pip install -r requirements.txt
 #### On a local code folder
 
 ```sh
-python ai_code_review_agent.py review --path /path/to/codebase --output /path/to/output
+python aiagent.py review --path /path/to/codebase --output /path/to/output
 ```
 
 #### On a ZIP archive
 
 ```sh
-python ai_code_review_agent.py review --input /path/to/codebase.zip --output /path/to/output
+python aiagent.py review --input /path/to/codebase.zip --output /path/to/output
 ```
 
 #### On a Git repository
 
 ```sh
-python ai_code_review_agent.py review --input https://github.com/owner/repo.git --output /path/to/output
+python aiagent.py review --input https://github.com/owner/repo.git --output /path/to/output
 ```
 
 ### 4. (Optional) Web Interface
 
 ```sh
-python ai_code_review_agent.py review --path /path/to/codebase --output /path/to/output --web
+python aiagent.py review --path /path/to/codebase --output /path/to/output --web
 ```
 Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
@@ -110,7 +110,7 @@ See [AI_Code_Review_FRD.md](AI_Code_Review_FRD.md) for the specification.
 ## Sample Run
 
 ```sh
-python ai_code_review_agent.py review --path ./sample_input --output ./sample_output
+python aiagent.py review --path ./sample_input --output ./sample_output
 ```
 
 ---
@@ -123,4 +123,4 @@ python ai_code_review_agent.py review --path ./sample_input --output ./sample_ou
 
 ## Contact
 
-For questions, contact [Your Name] at [your.email@example.com].# aiCodeReviewAgent
+For questions, contact [Your Name] at [your.email@example.com].
