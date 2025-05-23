@@ -99,13 +99,6 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 See the comments in the script or sample `config.json` for full options.
 
----
-
-## Functional Requirements
-
-See [AI_Code_Review_FRD.md](AI_Code_Review_FRD.md) for the specification.
-
----
 
 ## Sample Run
 
@@ -114,13 +107,3 @@ python aiagent.py review --path ./sample_input --output ./sample_output
 ```
 
 ---
-
-## License
-
-[MIT License](LICENSE) (if applicable)
-
----
-
-## Contact
-
-For questions, contact [Your Name] at [your.email@example.com].
